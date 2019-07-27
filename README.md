@@ -4,15 +4,15 @@ Build a native desktop timer app with Angular and Electron.
 
 ![TimerApp](/demo/demo.gif)
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
 ## Basic Usage
 
 git clone<br/>
 <code>cd</code> Desktop-Timer-App-Electron<br/>
 npm install
+
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Build
 
